@@ -1,23 +1,48 @@
-# :open_book: Sindi's Coding Portfolio
-Welcome to my coding portfolio. I have outlined projects of mine using different coding platforms and languages.
+# :world_map: Sindi's Coding Portfolio
+Welcome to my coding portfolio! I have outlined projects of mine across different areas and platforms, as seen below.
 
 
-## Table of Contents
-- [Data Analytics] (# add name of project)
-- [Natural Language Processing (NLP)] (# add name of project)
-- [Tableau] (# add name of project)
-- [SQL] (# add name of project)
+## :open_book: Table of Contents
+- [Data Engineering & Analytics](#data-engineering-analytics)
+- [Artificial Intelligence & Machine Learning](#AI-ML)
+- [Data Visualization](#data-visualization)
+- [Recommendation Engines](#rec-engines)
+- [Simulations & Modeling](#simulations-modeling)
 
-# Data Engineering
+# Data Engineering & Analytics
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 
 ***
 
-# Natural Language Processing (NLP)
+# Artificial Intelligence & Machine Learning
 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
 
 ***
 
-# 
+# Data Visualization
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+
+***
+
+# Recommendation Engines
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+
+***
+
+# Simulations & Modeling
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+
+***
+
+
+
