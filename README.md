@@ -9,7 +9,8 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 - [Recommendation Engines](#rec-engines)
 - [Simulations & Modeling](#simulations-modeling)
 
-# Data Engineering & Analytics
+# Data Engineering & Analytics 
+(🔗 [Repository Link](https://github.com/sindibejko/data-engineering-analytics))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -19,7 +20,8 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 
 ***
 
-# Artificial Intelligence & Machine Learning
+# Artificial Intelligence & Machine Learning 
+(🔗 [Repository Link](https://github.com/sindibejko/AI-ML))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -30,6 +32,7 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 ***
 
 # Data Visualization
+(🔗 Repository Link)
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -37,6 +40,7 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 ***
 
 # Recommendation Engines
+(🔗 [Repository Link](https://github.com/sindibejko/rec-engines/tree/main))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -45,6 +49,7 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 ***
 
 # Simulations & Modeling
+(🔗 [Repository Link](XXX))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
