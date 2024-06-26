@@ -14,7 +14,7 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🎶 [Spotify Wrapped](https://github.com/sindibejko/data-engineering-analytics/tree/main/Spotify%20Wrapped) | May 2024 | Apache Kafka, Apache Spark, Python | Designed and implemented a pipeline that simulates the data processing behind *Spotify Wrapped*. |
-| 👩🏽‍💼 [Corporate Social Network Analysis](https://github.com/sindibejko/data-engineering-analytics/tree/main/Corporate%20Social%20Network%20Analysis) | Dec 2023 |R Studio | Conducted in-depth analysis of a corporate law firm's social network dynamics. Explored aspects of group formation, network structure, and behavioral patterns within the firm. (Group Project) |
+| 👩🏽‍💼 [Corporate Social Network Analysis](https://github.com/sindibejko/data-engineering-analytics/tree/main/Corporate%20Social%20Network%20Analysis) | Dec 2023 |R Studio | Conducted in-depth analysis of a corporate law firm's social network dynamics. Explored aspects of group formation, network structure, and behavioral patterns within the firm. |
 
 
 ***
