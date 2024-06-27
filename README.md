@@ -53,7 +53,7 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 ***
 
 # Data Visualization
-(🔗 Repository Link)
+(🔗 [Repository Link](https://github.com/sindibejko/data-visualization/tree/main))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
