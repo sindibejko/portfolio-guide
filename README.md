@@ -31,11 +31,15 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 
 ***
 
-# Data Visualization
-(🔗 Repository Link)
+# Simulations & Modeling
+(🔗 [Repository Link](https://github.com/sindibejko/simulations-modeling/blob/main/README.md))
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
+| 🏨 [Hotel Simulation](https://github.com/sindibejko/simulations-modeling/tree/main/Hotel%20Simulation) | May 2023 | Python | Simulates the behavior of guests in a hotel environment. |
+| 🚦 [Traffic Simulation](https://github.com/sindibejko/simulations-modeling/tree/main/Traffic%20Simulation) | April 2023 | Python | simulates traffic flow on a 5x5 grid of roads with traffic lights, including a mechanism to prevent cars from moving simultaneously through intersecting roads. |
+| 👔 [Busy Office Simulation](https://github.com/sindibejko/simulations-modeling/tree/main/Busy%20Office%20Simulation) | March 2023 | Python | Simulation of the behavior of employees in a busy office environment, including tasks such as typing on a computer, making phone calls, or taking breaks. |
+| 🗃 [Classroom Simulation](https://github.com/sindibejko/simulations-modeling/tree/main/Classroom%20Simulation) | March 2023 | Python | Simulates a classroom environment with 50 students and 2 teachers. Generates a report of students who have raised their hands and given presentations and those who have not. |
 
 ***
 
@@ -48,13 +52,16 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 
 ***
 
-# Simulations & Modeling
-(🔗 [Repository Link](XXX))
+# Data Visualization
+(🔗 Repository Link)
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 
 ***
+
+
+
 
 
 
