@@ -10,6 +10,15 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 - [Recommendation Engines](#rec-engines)
 - [Simulations & Modeling](#simulations-modeling)
 
+# Capstone Project 
+(🔗 [Repository Link]([https://github.com/sindibejko/thesis-oilpriceforecasting](https://github.com/sindibejko/Capstone-Project)))
+
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+| 🛢 [AI-Driven Crude Oil Price Forecasting & Hedging]([https://github.com/sindibejko/thesis-oilpriceforecasting](https://github.com/sindibejko/Capstone-Project)) | May 2025 | Python, TensorFlow, Keras, Statsmodels | My Capstone project  focuses on forecasting Abu Dhabi Murban Crude Oil prices using ARIMA, LSTM, and Transformer models. The project evaluates each model's forecasting performance and tests its effectiveness in real-life hedging decision scenarios. It explores whether AI models can outperform human analysts in predicting oil prices and reducing risk for energy firms. |
+
+***
+
 # Data Engineering & Analytics 
 (🔗 [Repository Link](https://github.com/sindibejko/data-engineering-analytics))
 
@@ -64,14 +73,6 @@ Welcome to my coding portfolio! I have outlined projects of mine across differen
 
 ***
 
-# Capstone Project 
-(🔗 [Repository Link]([https://github.com/sindibejko/thesis-oilpriceforecasting](https://github.com/sindibejko/Capstone-Project)))
-
-| Project Link | Completion Date | Tools | Project Description |
-|---|---|---|---|
-| 🛢 [AI-Driven Crude Oil Price Forecasting & Hedging]([https://github.com/sindibejko/thesis-oilpriceforecasting](https://github.com/sindibejko/Capstone-Project)) | May 2025 | Python, TensorFlow, Keras, Statsmodels | My Capstone project  focuses on forecasting Abu Dhabi Murban Crude Oil prices using ARIMA, LSTM, and Transformer models. The project evaluates each model's forecasting performance and tests its effectiveness in real-life hedging decision scenarios. It explores whether AI models can outperform human analysts in predicting oil prices and reducing risk for energy firms. |
-
-***
 
 
 
